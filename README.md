@@ -1,4 +1,4 @@
-FOR STARTING THIS PROJECT
+FOR STARTING THIS PROJECT </br>
 first you want to install the node_modules in backend and forntend both 
 to download these module follow these steps --> 
 first go to the backend directory of this project in the terminal then --> npm install 
